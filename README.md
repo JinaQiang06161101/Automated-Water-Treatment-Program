@@ -70,7 +70,7 @@ Drinking water purification projects, stable equipment operation.
 
 <p>
   <a href="#流程图" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/📊 前往-流程图-blue?style=for-the-badge" alt="展开">
+    <img src="https://img.shields.io/badge/📊 下方-流程图-blue?style=for-the-badge" alt="展开">
   </a>
 </p>
 
